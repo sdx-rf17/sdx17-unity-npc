@@ -1,0 +1,21 @@
+Third-Party Notices — Sdx17 NPC Framework (com.sdx17.npc, version 0.1.0)
+
+No third-party code, fonts, audio, or assets are included in this
+package.
+
+All code in this package (Runtime/, Editor/, Samples~/, Tests~/) is
+original work by Sdx17, written for this package. It is licensed
+under the MIT License — see LICENSE in the package root
+(Copyright 2026 Sdx17).
+
+No bundled dependencies. The package depends only on Unity's own
+built-in modules (UnityEngine, UnityEngine.AI / NavMesh, UnityEngine.
+Events) and on no other package, paid or free. No third-party
+libraries are bundled, vendored, or linked.
+
+No fonts, audio files, textures, models, animations, or other
+assets are included. The package contains C# source code and
+Markdown documentation only.
+
+If a future version adds any third-party material, this file must be
+updated before release to list it with its licence and source.

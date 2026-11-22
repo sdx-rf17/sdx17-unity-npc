@@ -1,0 +1,39 @@
+# Unity standard ignores
+# Generated / local Unity folders — never commit these.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Memory captures
+/[Mm]emoryCaptures/
+
+# Asset meta files are NOT ignored: keep every .meta file so GUIDs stay stable.
+# If a .meta file is missing, Unity regenerates a new GUID and references break.
+
+# Build artefacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Visual Studio / Rider generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
